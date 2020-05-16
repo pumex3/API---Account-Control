@@ -13,4 +13,6 @@ server.listen(port, function(){
     console.log('Backend on Port 3003')
 })
 
+module.exports = server 
+
 
