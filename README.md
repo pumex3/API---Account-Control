@@ -6,6 +6,11 @@ after installed, you need to run the terminal:
 
 - mongod
 
+it is interesting to use Robo3t (rogomongo) to have a better interface on the database.
+
+Mongo robo3T: https://robomongo.org/download
+
+______________________________________________________________________________________________________________________________________
 
 after mongodb is ready, you need to install the project packages.
 
