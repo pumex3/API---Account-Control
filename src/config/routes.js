@@ -1,9 +1,6 @@
 const express = require ('express')
-const server = express()
 
-
-
-module.exports = function(){ //pegando o server de server.js (express)
+module.exports = function(server){ //pegando o server de server.js (express)
 
     //URL PARA TODAS AS ROTAS
 
