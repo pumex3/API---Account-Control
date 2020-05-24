@@ -16,15 +16,18 @@ after mongodb is ready, you need to install the project packages.
 
 executing the command in the terminal within the project:
 
-- npm install 
+
+- ### `npm install`
 
 after the installation is completed, it is necessary to run the project script, to run in development use:
 
-- npm run dev
+
+- ### `npm run dev`
 
 in production use:
 
-- npm run production
+
+- ### `npm run production`
 
 
 this done the API will be running in:
