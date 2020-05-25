@@ -32,4 +32,4 @@ in production use:
 
 this done the API will be running in:
 
-http://localhost:3003/
+http://localhost:3003/ :white_check_mark:
